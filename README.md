@@ -101,7 +101,7 @@ TURSO_DB_URL=<obtained-db-url>
 Create a database authentication token.
 
 ```sh
-turso db tokens create find-me-on-fh
+turso db tokens create find-me-on
 ```
 
 Assign the database authentication token to the "TURSO_DB_AUTH_TOKEN" key inside
